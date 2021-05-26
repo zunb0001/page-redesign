@@ -1,0 +1,107 @@
+
+ * {
+    padding: 10px;
+    margin: 2px;
+   
+  }
+  
+  html {
+   
+    padding: 1rem 2rem;
+    
+  }
+  
+  body {
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hsl(207, 84%, 41%);
+
+
+  }
+  
+  /*****************Navbar Styling************************************/
+  
+nav.nav#nav {
+  
+    width:1140px;
+    border: none;
+    background-color: rgb(179, 239, 250);
+    text-align:initial;
+  }
+  nav a {
+    color: hsl(207, 84%, 41%);
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content:space-around;
+    font-weight: 500;
+   
+  }
+
+  nav a:hover {
+    color: hsl(240, 41%, 97%);
+  }
+  /*****************Navbar Styling************************************/
+  
+  section#home {
+  padding-left: inherit;
+ background-color: rgb(238, 225, 245);
+  }
+  
+main.main#main{
+
+    padding:initial;
+}
+
+/*****************Home  Styling************************************/
+  
+  section.home#home {
+    
+   
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(206, 243, 250);
+    background-color: hsl(207, 84%, 41%);
+ 
+  }
+  /*****************about Styling************************************/
+  
+  .about#about {
+    
+   
+    
+    color:hsl(207, 84%, 41%) ;
+    background-color: rgb(244, 245, 245);
+  }
+  
+  section.about {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.75rem;
+
+  }
+img.about-image {
+    float: left;
+    width: 250px;
+    height: 200px;
+    margin: 0 1rem 1rem 0;
+  
+}
+  
+
+/*****************Contact Styling************************************/
+  
+.contact#contact {
+   
+    background-color: rgb(240, 243, 243)
+  }
+ section .contact-form {
+    padding: 30px;
+    background-color: hsl(207, 84%, 41%) ;
+    margin: 0px auto;
+  }
+  label.contact-form-label {
+  color: rgb(240, 243, 243);
+
+
+}
+p{
+    font-size: 1.5rem;
+}
